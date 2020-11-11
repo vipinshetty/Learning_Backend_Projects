@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.uob.bank.SpringBoot2_4.SpringBoot24ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.874 s - in com.uob.bank.SpringBoot2_4.SpringBoot24ApplicationTests
